@@ -2,6 +2,8 @@
 <h1 align="center">Hi there!, I'm Milton 👋</h1>
 </div>
 
+![Header](./github-header-image.png)
+
 ## About me
 - 🧑‍💻 IT Engineer
 - 📱 Android Mobile Developer
