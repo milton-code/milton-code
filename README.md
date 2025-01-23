@@ -1,4 +1,11 @@
-## Hi there, I'm Milton👋
+<div align="center">
+<h1 align="center">Hi there!, I'm Milton 👋</h1>
+</div>
+
+## About me
+- 🧑‍💻 IT Engineer
+- 📱 Android Mobile Developer
+- 🌐 Web Developer
 <!--
 **milton-code/milton-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
