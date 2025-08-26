@@ -11,7 +11,6 @@
 ## About me
 - 🧑‍💻 IT Engineer
 - 📱 Android Mobile Developer
-- 🌐 Web Developer
 
 ## ⚙️ &nbsp;GitHub Analytics
 
