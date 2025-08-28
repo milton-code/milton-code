@@ -9,6 +9,7 @@
 </div>
 
 ##🚀 About me
+
 I am an Information Technology Engineer, primarily focused on native mobile app development for Android systems. I am constantly learning, seeking to further improve my skills and contribute effective solutions to various projects.
 
 Soy Ingeniero en Tecnologías de la Información, me dedico principalmente al desarrollo nativo de apps móviles para sistemas Android. Estoy en constante aprendizaje, buscando mejorar cada vez mas mis habilidades y aportar con soluciones efectivas para distintos proyectos.
