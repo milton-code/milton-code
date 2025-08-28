@@ -13,8 +13,9 @@ I am an Information Technology Engineer, primarily focused on native mobile app 
 
 Soy Ingeniero en Tecnologías de la Información, me dedico principalmente al desarrollo nativo de apps móviles para sistemas Android. Estoy en constante aprendizaje, buscando mejorar cada vez mas mis habilidades y aportar con soluciones efectivas para distintos proyectos.
 
-- 🧑‍💻 IT Engineer
-- 📱 Android Mobile Developer
+## 🛠 Skills
+![Static Badge](https://img.shields.io/badge/Android-%2319A635?style=for-the-badge&logo=android&logoColor=%23ffffff)
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
