@@ -15,6 +15,8 @@ Soy Ingeniero en Tecnologías de la Información, me dedico principalmente al de
 
 ## 🛠 Skills
 ![Static Badge](https://img.shields.io/badge/Android-%2319A635?style=for-the-badge&logo=android&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Kotlin-%23555555?style=for-the-badge&logo=kotlin)
+
 
 
 ## ⚙️ &nbsp;GitHub Analytics
